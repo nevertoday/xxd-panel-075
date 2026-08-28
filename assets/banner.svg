@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">XXD Panel 075</title>
+  <desc id="desc">A loose dark-crayon sketch rests on a soft irregular colour field over textured ivory handmade paper.</desc>
+  <defs>
+    <filter id="paper" x="-10%" y="-10%" width="120%" height="120%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.72" numOctaves="3" seed="75" result="noise"/>
+      <feColorMatrix in="noise" type="saturate" values="0" result="mono"/>
+      <feComponentTransfer in="mono" result="faint"><feFuncA type="table" tableValues="0 0.055"/></feComponentTransfer>
+      <feBlend in="SourceGraphic" in2="faint" mode="multiply"/>
+    </filter>
+    <filter id="rough" x="-10%" y="-10%" width="120%" height="120%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.018 0.19" numOctaves="2" seed="17" result="n"/>
+      <feDisplacementMap in="SourceGraphic" in2="n" scale="2.2" xChannelSelector="R" yChannelSelector="G"/>
+    </filter>
+    <pattern id="grain" width="8" height="8" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="2" r="0.7" fill="#32302d" opacity=".17"/>
+      <circle cx="6" cy="5" r="0.55" fill="#32302d" opacity=".12"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="420" fill="#f2eee2"/>
+  <rect width="1200" height="420" fill="url(#grain)" opacity=".12"/>
+  <g transform="translate(70 36)">
+    <path d="M40 80 C118 37 268 41 368 84 C425 109 441 178 409 238 C367 317 200 339 87 292 C12 260 -17 132 40 80Z" fill="#b9a99d" opacity=".78"/>
+    <path d="M55 263 C134 284 239 278 341 251 C392 237 421 248 435 273 C373 327 184 350 68 306Z" fill="url(#grain)" opacity=".55"/>
+    <g fill="none" stroke="#2f302d" stroke-linecap="round" stroke-linejoin="round" filter="url(#rough)">
+      <path d="M101 247 C112 201 136 160 181 132 C218 109 261 108 301 129 C331 145 355 170 369 201" stroke-width="8" opacity=".92"/>
+      <path d="M108 250 C129 264 148 270 170 271 M199 270 C230 274 264 268 292 253 M317 242 C338 231 356 218 371 201" stroke-width="7" opacity=".84"/>
+      <path d="M176 137 C190 155 197 176 196 201 C195 228 185 250 171 270" stroke-width="6" opacity=".88"/>
+      <path d="M301 132 C286 157 281 184 286 212 C289 230 299 245 315 255" stroke-width="6" opacity=".88"/>
+      <path d="M197 201 C223 187 257 189 286 211" stroke-width="5" opacity=".7"/>
+      <path d="M98 250 C111 245 118 249 123 258 M368 201 C373 207 374 215 369 221" stroke-width="3" opacity=".6"/>
+    </g>
+    <g fill="#373835" font-family="Courier New, monospace">
+      <text x="80" y="45" font-size="12" letter-spacing="2.2">a quiet interval</text>
+      <text x="332" y="330" font-size="10" letter-spacing="1.4" opacity=".68">memory, lightly held</text>
+    </g>
+  </g>
+  <line x1="590" y1="56" x2="590" y2="364" stroke="#383a36" stroke-width="1" opacity=".14"/>
+  <text x="670" y="80" font-family="Apple Color Emoji, sans-serif" font-size="22">&#x1F981;</text>
+  <g font-family="Inter, Avenir Next, Helvetica Neue, Arial, sans-serif" fill="#343632">
+    <text x="704" y="80" font-size="22" letter-spacing="5">XXD</text>
+    <text x="670" y="148" font-size="54" font-weight="700" letter-spacing="2">PANEL 075</text>
+    <text x="670" y="194" font-size="16" letter-spacing="2.1">DARK CRAYON SKETCH</text>
+    <text x="670" y="223" font-size="16" letter-spacing="1.8">SOFT FIELD · PAPER · PRIVATE NOTE</text>
+    <text x="670" y="276" font-size="15">深色蜡笔与纸面留白 · 濃色クレヨンと紙の余白</text>
+    <text x="670" y="303" font-size="15">짙은 크레용과 종이 여백 · قلم شمعي وفراغ ورقي</text>
+    <text x="670" y="355" font-size="13" letter-spacing="1.3" fill="#777970">ONE SOURCE · ONE AESTHETIC AUTHORITY</text>
+  </g>
+</svg>
