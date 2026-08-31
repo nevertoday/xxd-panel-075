@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 075
+# 🦁 XXD Panel 075｜深色蜡笔稿
 
 ### 用深色蜡笔、柔和色域与纸面留白，留下照片最值得记住的一笔
 

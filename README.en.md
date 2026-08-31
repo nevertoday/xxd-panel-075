@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 075
+# 🦁 XXD Panel 075｜Dark Crayon Sketch
 
 ### Leave the photograph's essential mark in dark crayon, a soft colour field, and breathing paper
 
