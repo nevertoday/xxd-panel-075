@@ -14,4 +14,6 @@ This directory contains the reviewed extension samples displayed by all five loc
 - Each work was generated independently from Panel 075's canonical prompt, uses intelligent English copy, and was reviewed for the correct comparison direction.
 - No artwork from another numbered Panel, broken placeholder, or banner is accepted as a sample.
 
+Source manifest for the regenerated set: landscape `sample-05`–`08` use `group_013` (`049.jpg`, `050.jpg`, `051.jpg`, `052.jpg`); portrait `sample-09`–`12` use `group_020` (`077.jpg`, `078.jpg`, `079.png`, `080.jpg`), in filename order.
+
 Canonical authority: `../../references/original-prompt/zh-CN.md`.
