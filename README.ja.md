@@ -260,7 +260,7 @@ Use this photograph, ask me for the modes and copy setting, then generate fresh 
 <!-- xxd-panel-catalog:start -->
 ## XXD Panel 全プロジェクト一覧
 
-60 個の Panel は、それぞれ独立した原文プロンプトと美的ロジックを保持しています。全プロジェクトの URL と主要なスタイル特性を一覧にし、現在のプロジェクトを太字で示します。
+75 個の Panel は、それぞれ独立した原文プロンプトと美的ロジックを保持しています。表には 001 から 075 までを欠番なく掲載し、現在のプロジェクトを太字で示します。
 
 | プロジェクト | スタイル特性 |
 |---|---|
@@ -337,7 +337,7 @@ Use this photograph, ask me for the modes and copy setting, then generate fresh 
 | [xxd-panel-071](https://github.com/nevertoday/xxd-panel-071) | 柔らかなパステル · パステルクレヨン · 水溶性色鉛筆 · 白に近い紙面 · 浮遊する記憶 · 詩的な手書き文字 |
 | [xxd-panel-072](https://github.com/nevertoday/xxd-panel-072) | 半透明すりガラス窓 · 領域差ソフトフォーカス · ミニマル幾何学 · 識別輪郭 · 現代編集文字 |
 | [xxd-panel-073](https://github.com/nevertoday/xxd-panel-073) | 等角投影微縮建築 · 切断立方体 · 大陸棚断面 · 合理的足場 · 白いテクスチャ紙 |
-| **[xxd-panel-074](https://github.com/nevertoday/xxd-panel-074)** | 標準角丸正方形 · 正面擬似3D／2.5D · 元写真の魂 · 連続遮蔽 · マット彫刻 · ブランドアイコン |
+| [xxd-panel-074](https://github.com/nevertoday/xxd-panel-074) | 標準角丸正方形 · 正面擬似3D／2.5D · 元写真の魂 · 連続遮蔽 · マット彫刻 · ブランドアイコン |
 | **[xxd-panel-075](https://github.com/nevertoday/xxd-panel-075)** | 濃色クレヨン · アイボリー手工紙 · 柔らかな不定形色面 · リソグラフ粒子 · 大きな余白 · 私的注記 |
 <!-- xxd-panel-catalog:end -->
 

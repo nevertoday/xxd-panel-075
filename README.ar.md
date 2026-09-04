@@ -260,7 +260,7 @@ Use this photograph, ask me for the modes and copy setting, then generate fresh 
 <!-- xxd-panel-catalog:start -->
 ## دليل مشاريع XXD Panel الكامل
 
-يحافظ كل مشروع من مشاريع Panel الـ60 على موجّهه الأصلي ومنطقه الجمالي المستقل. يعرض الجدول روابط جميع المشاريع وخصائص أسلوبها الأساسية، مع تمييز المشروع الحالي بخط عريض.
+يحافظ كل مشروع من مشاريع Panel الـ75 على موجّهه الأصلي ومنطقه الجمالي المستقل. يسرد الجدول المشاريع من 001 إلى 075 دون أرقام مفقودة، مع تمييز المشروع الحالي بخط عريض.
 
 | المشروع | خصائص الأسلوب |
 |---|---|
@@ -337,7 +337,7 @@ Use this photograph, ask me for the modes and copy setting, then generate fresh 
 | [xxd-panel-071](https://github.com/nevertoday/xxd-panel-071) | باستيل ناعم · أقلام باستيل شمعية · أقلام مائية ملونة · ورق شبه أبيض · شذرات ذاكرة عائمة · كتابة شاعرية |
 | [xxd-panel-072](https://github.com/nevertoday/xxd-panel-072) | نوافذ مصنفرة نصف شفافة · تركيز ناعم مناطقي · هندسة بسيطة · محيط واضح · كتابة حديثة |
 | [xxd-panel-073](https://github.com/nevertoday/xxd-panel-073) | عمارة مصغرة متساوية القياس · مكعب مقطوع · مقطع جرف قاري · سقالات عقلانية · ورق محبب |
-| **[xxd-panel-074](https://github.com/nevertoday/xxd-panel-074)** | مربع مستدير قياسي · منظور أمامي شبه3D／2.5D · روح المصدر · حجب متصل · نحت مطفأ · أيقونة علامة |
+| [xxd-panel-074](https://github.com/nevertoday/xxd-panel-074) | مربع مستدير قياسي · منظور أمامي شبه3D／2.5D · روح المصدر · حجب متصل · نحت مطفأ · أيقونة علامة |
 | **[xxd-panel-075](https://github.com/nevertoday/xxd-panel-075)** | قلم شمعي داكن · ورق عاجي يدوي · مساحة لونية ناعمة · حبيبات ريسوغراف · فراغ واسع · ملاحظة خاصة |
 <!-- xxd-panel-catalog:end -->
 
